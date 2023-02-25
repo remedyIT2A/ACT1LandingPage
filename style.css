@@ -42,7 +42,7 @@ body {
   }
   
   nav .wrapper {
-    height:16px;
+    height:200px;
     display: flex;
     justify-content: space-between;
     align-items: center;
